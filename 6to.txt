@@ -1,0 +1,8 @@
+¿Qué entiende como "commit"?
+Es mandar el archivo modificado a la cabeza del repositorio
+
+¿Qué entiende como "merge"?
+Es fusionar una rama
+
+¿Cuál es la diferencia entre "Pull" y "Push"?
+Una manda y el otro recibe datos
